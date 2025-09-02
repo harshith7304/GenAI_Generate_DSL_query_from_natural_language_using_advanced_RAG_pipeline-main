@@ -1,5 +1,5 @@
 # GenAI-Powered Natural Language to DSL Query Generator with Advanced RAG Pipeline
-
+**Developed during my internship at Samsung as part of the PRISM program**
 **Observability and data access with a production-grade pipeline that translates natural language into precise PromQL queries using cutting-edge Retrieval-Augmented Generation (RAG)**
 
 ## 🧠 Technical Highlights
